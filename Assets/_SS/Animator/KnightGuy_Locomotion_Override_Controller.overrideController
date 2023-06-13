@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: KnightGuy_Locomotion_Override_Controller
+  m_Controller: {fileID: 9100000, guid: 5fd04b00e541a044fab62a1a18878569, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 23849d03aca96364bb27745f377b6eda, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 2be7ce8c110744b46a9edb670ef6a29a, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 7c42a756832ccd54f8a1a9a7058b7871, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 47a0cef4db8565e419c3bf8d5830f19b, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 230ba09445d988f4c8d9d8f5e67079f1, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 77ba4721443575648b436ee881ceeae0, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 555b4ed73ed505c41b16dcd0deca550f, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: bebb7a05115b134479d3a2c8977e349d, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 6e3366571bd0929439eb424d3f8e82da, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 2be7ce8c110744b46a9edb670ef6a29a, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 94b765951a612a8459516c926fb4e55a, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 5857f8ff742610448bef58065fdb7e8a, type: 3}
+  - m_OriginalClip: {fileID: 7400010, guid: b0b75ad3a96b0ec45ae1014524495113, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 93969b431b338144bbdea51f9299a18c, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 61c9dbcfe0f2e6148bd1580e59f9dc40, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 0ec6f0095942af943bf338360e37ac6e, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: b0fe517c4b423b644be69ac56b7be116, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 2be7ce8c110744b46a9edb670ef6a29a, type: 3}
